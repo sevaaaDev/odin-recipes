@@ -1,3 +1,3 @@
 # odin-recipes
 
-im gonna make website about recipe
+this is a project from theodinproject.com
