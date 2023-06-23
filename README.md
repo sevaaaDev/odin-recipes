@@ -1,3 +1,3 @@
 # odin-recipes
 
-this is a project from theodinproject.com
+this is a project for theodinproject.com
