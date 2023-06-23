@@ -17,14 +17,23 @@ h1 {
   text-align: center;
 }
 
+img {
+  width: 400px;
+  display: block;
+  margin: auto;
+}
 
 li > a {
   color: inherit;
   text-decoration: none;
 }
 
-li {
-  display: inline-block;
-  margin: auto;
+ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-around;
+  padding: 0;
 }
+
+
 
