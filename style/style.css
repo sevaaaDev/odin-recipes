@@ -13,7 +13,7 @@ body {
   justify-content: center;
 }
 
-h1, h2 {
+p, h1, h2 {
   text-align: center;
 }
 
@@ -24,12 +24,13 @@ img {
   margin: auto;
 }
 
-li > a {
+
+.index-li > a {
   color: inherit;
   text-decoration: none;
 }
 
-ul {
+.index-ul {
   display: flex;
   list-style-type: none;
   justify-content: space-around;
