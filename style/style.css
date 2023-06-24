@@ -21,14 +21,20 @@ body {
 
 p, h1, h2 {
   text-align: center;
+  margin: 1rem;
 }
 
+h3 {
+  margin: 1rem 0;
+}
 
 img {
-  width: 60%;
+  width: 50%;
   display: block;
   margin: auto;
 }
+
+
 
 
 .index-li > div > a {
@@ -37,9 +43,11 @@ img {
 }
 
 .index-ul {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   list-style-type: none;
-  justify-content: space-around;
+  align-items: baseline;
+  gap: 2rem;
   padding: 0;
 }
 
