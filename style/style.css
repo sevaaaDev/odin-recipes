@@ -9,6 +9,8 @@ body {
   background-color: black;
   color: white;
 }
+/* =========Universal========== */
+
 
 .container {
   width: 80%;
@@ -18,24 +20,6 @@ body {
   flex-direction: column;
   justify-content: center;
 }
-
-p, h1, h2 {
-  text-align: center;
-  margin: 1rem;
-}
-
-h3 {
-  margin: 1rem 0;
-}
-
-img {
-  width: 50%;
-  display: block;
-  margin: auto;
-}
-
-
-
 
 .index-li > div > a {
   color: inherit;
@@ -55,6 +39,26 @@ img {
   display: grid;
   justify-items: center;
 }
+/* ====Index==== */
+
+p, h1, h2 {
+  text-align: center;
+  margin: 1rem;
+}
+
+h3 {
+  margin: 1rem 0;
+}
+
+img {
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+
+/* ====Both==== */
+
+
 
 
 
