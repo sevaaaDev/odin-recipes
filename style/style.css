@@ -13,7 +13,7 @@ body {
 
 
 .container {
-  width: 80%;
+  width: 100%;
   max-width: 90ch;
   margin: auto;
   display: flex;
@@ -48,7 +48,7 @@ p, h1, h2 {
 
 
 img {
-  width: 50%;
+  width: 80%;
   display: block;
   margin: auto;
 }
@@ -65,7 +65,7 @@ ul, ol {
 
 .wrapper {
   width: 80%;
-  max-width: 90ch;
+  max-width: 65ch;
   margin: auto;
 }
 
