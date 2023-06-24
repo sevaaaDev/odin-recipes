@@ -46,9 +46,6 @@ p, h1, h2 {
   margin: 1rem;
 }
 
-h3 {
-  margin: 1rem 0;
-}
 
 img {
   width: 50%;
@@ -58,6 +55,13 @@ img {
 
 /* ====Both==== */
 
+h3 {
+  margin: 1rem 0;
+}
+
+ul, ol {
+  padding-left: 40px ;
+}
 
 
 
