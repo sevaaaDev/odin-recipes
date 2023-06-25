@@ -39,6 +39,10 @@ body {
   display: grid;
   justify-items: center;
 }
+
+.card > a {
+  text-align: center;
+}
 /* ====Index==== */
 
 p, h1, h2 {
